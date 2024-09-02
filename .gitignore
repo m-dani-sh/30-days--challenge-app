@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+# https://asharibali.medium.com/introducing-the-30-days-of-30-projects-challenge-8c8ef35f0a04
 # dependencies
 /node_modules
 /.pnp
